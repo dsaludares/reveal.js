@@ -1,0 +1,228 @@
+<!doctype html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+
+		<title>Learning How to Learn</title>
+
+		<link rel="stylesheet" href="css/reveal.css">
+		<link rel="stylesheet" href="css/theme/solarized.css">
+
+		<!-- Theme used for syntax highlighting of code -->
+		<link rel="stylesheet" href="lib/css/zenburn.css">
+
+		<!-- Printing and PDF exports -->
+		<script>
+			var link = document.createElement( 'link' );
+			link.rel = 'stylesheet';
+			link.type = 'text/css';
+			link.href = window.location.search.match( /print-pdf/gi ) ? 'css/print/pdf.css' : 'css/print/paper.css';
+			document.getElementsByTagName( 'head' )[0].appendChild( link );
+		</script>
+	</head>
+	<body>
+		<div class="reveal">
+			<div class="slides">
+				<section>
+					<h1>Learning How to Learn</h1>
+				</section>
+				<section>
+					<p>The information contained in these slides is a summary of the material covered in weeks 1-3 of the Coursera course, <a href="https://www.coursera.org/learn/learning-how-to-learn" target="_blank">Learning How to Learn: Powerful mental tools to help you master tough subjects</a>. It is intended for my family, friends, and colleagues, so that they can also "learn how to learn."</p>
+				</section>
+				<section>
+					<section>
+						<h2>Focused and Diffuse Thinking</h2>
+					</section>
+					<section>
+						<h3>Focused vs. Diffuse Thinking</h3>
+						<p>We have two different modes of thinking</p>
+						<ol>
+							<li class="fragment">Focused</li>
+							<li class="fragment">Diffuse</li>
+						</ol>
+						</section>
+					<section>
+						<h3>Focused Thinking</h3>
+						<p>Used when you are thinking about something that you are acquainted with</p>
+            <p class="fragment"><em>Example</em>: Dividing two numbers (if you already know how to do division)</p>
+					</section>
+					<section>
+						<h3>Diffuse Thinking</h3>
+						<p>Used when you are figuring out how to solve something new</p>
+					</section>
+					<section>
+						<h3>Diffuse Mode</h3>
+						<ul>
+							<li>We access diffuse mode naturally, e.g.,<br />
+							while taking a shower, going for a stroll, or falling asleep.</li>
+              <li class="fragment">Our minds are still working in diffuse mode&mdash;<br />
+							neural processing is still happening.</li>
+							<li class="fragment">Why? Because it takes time to learn something new and for your brain to process it.</li>
+							<li class="fragment">And this is why overcoming procrastination is important.</li>
+						</ul>
+						</section>
+						<section>
+							<h3>Procrastination</h3>
+							<p>When you procrastinate, what you are learning may be retrieved in your working memory, but it does not stay in your long term memory.</p>
+						</section>
+				</section>
+				<section>
+					<section>
+						<h2>Memory</h2>
+				  </section>
+					<section>
+						<h3>Long Term Memory</h3>
+						<p>Long term memory is like a library, so if you are repeating and practicing things, these things can be recalled later.</p>
+						<p class="fragment">However, this doesn’t work if you are trying to cram things in one day.</p>
+					</section>
+					<section>
+					  <h3>Working Memory</h3>
+						<p>Working memory is like a dry erase board with four quadrants, meaning that you can remember about four things in your working memory with other items being erased or replaced.</p>
+						<p class="fragment">When you recall a concept from long term memory, the ideas are chunked together so they take up less space in your working memory.</p>
+					</section>
+				</section>
+				<section>
+					<section>
+						<h2>Chunking</h2>
+				  </section>
+					<section>
+						<h3>Chunking</h3>
+						<p>Chunking is grouping together related information so that it is easier to recall.</p>
+						<p class="fragment">You can add more information to chunks to make them larger and more complex, but they are still easy to recall because the information is grouped together.</p>
+					</section>
+					<section>
+						<h3>Building Chunks</h3>
+						<p>To build chunks, it is best to:</p>
+						<ul>
+							<li class="fragment">Focus and give full attention</li>
+						  <li class="fragment">Understand the basic idea</li>
+						  <li class="fragment">Practice</li>
+					  </ul>
+					</section>
+					<section>
+					  <h3>How do you practice?</h3>
+						<p class="fragment">Recall is the best way to help chunking.</p>
+						<ul>
+							<li class="fragment">Look away from a page and see if you can remember the information.</li>
+						  <li class="fragment">Handwrite flashcards and test yourself with them.</li>
+						  <li class="fragment">Try to recall the information in a different location, e.g., another room (good for tests).</li>
+						  <li class="fragment">Space out when you try to recall information, e.g., after one day, after two days, etc., to ingrain the information into your memory.</li>
+					  </ul>
+					</section>
+					<section>
+						<h3>Deliberate Practice</h3>
+						<p>Deliberate practice is deliberately practicing the harder and more challenging material to ensure that you learn it.</p>
+					</section>
+					<section>
+						<h3>Transfer</h3>
+						<p>A chunk you’ve learned in one subject can transfer and help you learn chunks in a different subject as they may have unexpected similarities.</p>
+					</section>
+					<section>
+						<h3>Interleaving</h3>
+						<p>Interleaving is switching between different types of practice during one study session.</p>
+						<p class="fragment">It helps solidify chunks in your memory.</p>
+						<p class="fragment"><em>Examples</em>:</p>
+						<ul>
+							<li class="fragment">switching between different types of math problems</li>
+							<li class="fragment">switching between different concepts in your textbook</li>
+							<li class="fragment">switching between different subjects</li>
+						</ul>
+					</section>
+					<section>
+						<h3>Illusions of Competence</h3>
+						<p>An illusion of competence is thinking that you have learned something when you actually haven’t.</p>
+						<ul>
+							<li class="fragment">Avoiding word problems in math and only studying easier, non-word problems can give you an illusion of competence.</li>
+							<li class="fragment">Highlighting concepts in a book can also give you an illusion of competence. (<em>Tip</em>: Highlight only one sentence per paragraph.)</li>
+							<li class="fragment">Using recall or quizzing yourself can help you determine if you have an illusion of competence.</li>
+						</ul>
+					</section>
+					<section>
+						<h3>Einstellung</h3>
+						<p><em>Einstellung</em> is when a concept you already have ingrained in your brain blocks you from learning something new or better, so it’s important to know that you may have to unlearn something and go against your intuition to overcome <em>einstellung</em>.</p>
+					</section>
+				</section>
+				<section>
+					<section>
+						<h2>Tips &amp; Techniques for Learning</h2>
+				  </section>
+					<section>
+						<h3>Visual and Spatial Memory Systems</h3>
+						<p>To help recall something, make a visual image in your mind of a key concept you’d like to remember.</p>
+						<p class="fragment">Better yet, try using your senses of touch, hearing, and smell to remember it.</p>
+						<p class="fragment">The more humorous and poignant the image is, the more easily you will be able to recall it.</p>
+					</section>
+					<section>
+						<h3>Memory Palace Technique</h3>
+						<p>In the memory palace technique, you place memorable images in a familiar place, such as your house, in order to recall these images more easily.</p>
+						<p class="fragment">In your mind, as you go through this familiar place, you see these images and are able to remember information more easily.</p>
+					</section>
+					<section>
+						<h3>Tips for Overcoming Procrastination</h3>
+						<ul>
+							<li class="fragment">Keep a journal to plan and track your goals so you’ll see what works for you and what doesn’t.</li>
+							<li class="fragment">Each day, require yourself to do particular routines and tasks.</li>
+							<li class="fragment">Each night, write out your tasks for the following day so that your mind has time to think about your goals.</li>
+							<li class="fragment">Break your work up into smaller challenges or tasks.</li>
+							<li class="fragment">Reward yourself after each challenge or task.</li>
+							<li class="fragment">Take a few minutes to enjoy the reward and satisfaction you get from completing a challenge or task.</li>
+						</ul>
+					</section>
+					<section>
+						<h3>Tips for Overcoming Procrastination (continued)</h3>
+						<ul>
+							<li class="fragment">Do not reward yourself until you have completed a task.</li>
+							<li class="fragment">Be wary of procrastination cues, such as the television, phone, email, chat apps, etc., and study in a place with few procrastination cues.</li>
+							<li class="fragment">Trust your new study system; work hard during focused concentration and unwind when it’s time to relax, without feeling guilty or anxious.</li>
+							<li class="fragment">Do your most important and disliked task first thing in the morning.</li>
+						</ul>
+					</section>
+					<section>
+						<h3>The Pomodoro Technique</h3>
+						<p>This time-management technique helps people focus and overcome procrastination.</p>
+						<p class="fragment">It involves:</p>
+						<ul>
+							<li class="fragment">removing all distractions,</li>
+							<li class="fragment">setting a timer for 25 minutes,</li>
+							<li class="fragment">working on a task during this period of time, and</li>
+							<li class="fragment">rewarding oneself at the end of the time period.</li>
+						</ul>
+						<p class="fragment">Each time period is known as a “pomodoro” and can be repeated with longer breaks spaced in-between consecutive pomodoros.</p>
+					</section>
+					<section>
+						<h3>Sleep &amp; Exercise</h3>
+						<p>Sleep removes the toxins in your brain that accumulate during the day.  That’s why it’s important to make sure you get enough sleep the night before a test.</p>
+						<p class="fragment">Exercise increases the formation and survival of neurons, which improves our ability to learn.</p>
+					</section>
+					<section>
+						<h3>The Law of Serendipity</h3>
+						<p>“Lady Luck favors the one who tries.”</p>
+						<p class="fragment">Try learning one small thing. The next concept will be easier.</p>
+					</section>
+				</section>
+			</div>
+		</div>
+
+		<script src="lib/js/head.min.js"></script>
+		<script src="js/reveal.js"></script>
+
+		<script>
+			// More info about config & dependencies:
+			// - https://github.com/hakimel/reveal.js#configuration
+			// - https://github.com/hakimel/reveal.js#dependencies
+			Reveal.initialize({
+
+					// Transition style
+					transition: 'convex', // none/fade/slide/convex/concave/zoom
+
+				dependencies: [
+					{ src: 'plugin/markdown/marked.js' },
+					{ src: 'plugin/markdown/markdown.js' },
+					{ src: 'plugin/notes/notes.js', async: true },
+					{ src: 'plugin/highlight/highlight.js', async: true, callback: function() { hljs.initHighlightingOnLoad(); } }
+				]
+			});
+		</script>
+	</body>
+</html>
